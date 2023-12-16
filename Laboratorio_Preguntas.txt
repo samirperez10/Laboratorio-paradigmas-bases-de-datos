@@ -1,0 +1,15 @@
+¿Qué es una base de datos?
+Imagina una gran caja llena de carpetas. Cada carpeta tiene información ordenada: direcciones, números, nombres, ¡casi cualquier cosa! Esa caja gigante es como una base de datos. Es un lugar organizado donde guardamos montones de información importante. Nos ayuda a encontrar lo que necesitamos sin volverse una locura.
+
+Paradigmas de Bases de Datos
+Relacional: Es como una enorme hoja de cálculo con filas y columnas. Puedes conectar diferentes hojas usando claves, y así sabes cómo se relacionan los datos. Es bueno para datos bien estructurados, como listas de clientes o pedidos.
+
+Orientado a Documentos: Aquí, la información se guarda como si fueran documentos. Estos documentos pueden ser flexibles, como notas en un papel que pueden tener cualquier cosa escrita. Es útil para datos que pueden cambiar mucho, como artículos en un blog o detalles de productos.
+
+Clave-Valor: Imagina tener una caja con etiquetas en las que guardas cosas y cada etiqueta te dice dónde está algo. Funciona como un diccionario: tienes una palabra y obtienes su significado. Es rápido para buscar información específica, pero no es tan bueno para datos complejos.
+
+¿En qué consiste cada paradigma y cuáles son sus ventajas?
+
+Relacional: Funciona genial cuando necesitas saber cómo diferentes cosas están conectadas entre sí. Es muy bueno para hacer preguntas complejas y asegurar que los datos sean precisos.
+Orientado a Documentos: Es súper flexible, lo que significa que puedes guardar información de manera más libre y cambiarla fácilmente. Es perfecto para información que puede cambiar mucho.
+Clave-Valor: Es rápido para encontrar cosas específicas, como buscar una palabra en un diccionario. Es genial para velocidad, pero no es tan bueno para datos muy relacionados o complicados.
